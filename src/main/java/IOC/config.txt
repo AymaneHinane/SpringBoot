@@ -1,2 +1,0 @@
-IOC.Dao.DaoImpl
-IOC.Metier.MetierImpl
